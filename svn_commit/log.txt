@@ -1,0 +1,147 @@
+输出：D:/work/wydms_c05/src/main/webapp
+time:2018-05-12/21/18 15:05:37
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp
+time:2018-15-12/21/18 15:15:54
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp
+time:2018-17-12/21/18 15:17:14
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-19-12/21/18 15:19:08
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-19-12/21/18 15:19:30
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-21-12/21/18 15:21:52
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-24-12/21/18 15:24:51
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-25-12/21/18 15:25:28
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-25-12/21/18 15:25:53
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-26-12/21/18 15:26:17
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-26-12/21/18 15:26:49
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-27-12/21/18 15:27:03
+------------- 单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-32-12/21/18 15:32:20
+开始执行npm打包：D:/work/wydms_c05/src/main/webapp/vue------------- npm打包单次循环结束 -------------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-38-12/21/18 15:38:30
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-55-12/21/18 16:55:54
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-57-12/21/18 16:57:01
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-57-12/21/18 16:57:10
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-12-12/21/18 17:12:10
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-12-12/21/18 17:12:54
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-13-12/21/18 17:13:32
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-15-12/21/18 17:15:12
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-15-12/21/18 17:15:20
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-15-12/21/18 17:15:27
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-19-12/21/18 17:19:07
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-21-12/21/18 17:21:08
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-53-12/21/18 17:53:09
+开始执行npm打包：D:/work/wydms_c05/src/main/webapp/vue
+----- npm打包单次循环结束 ---------- 
+输出：D:/work/wydms_c05/src/main/webapp/vue
+time:2018-58-12/21/18 17:58:49
+开始执行npm打包：D:/work/wydms_c05/src/main/webapp/vue
+----- npm打包单次循环结束 ---------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-00-01/17/19 14:00:11
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-53-01/18/19 13:53:50
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-29-01/21/19 09:29:45
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-46-01/22/19 09:46:04
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-27-01/22/19 14:27:56
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-58-01/22/19 17:58:33
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-13-01/23/19 10:13:35
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-29-01/24/19 15:29:33
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
+输出：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+time:2019-00-01/24/19 18:00:09
+----- 删除dist目录结束 ---------- 
+开始执行npm打包：D:/work/jianyuan/dsp/dsp-b/src/main/webapp/
+----- npm打包单次循环结束 ---------- 
+----- 提交结束 ---------- 
+------------- 日志写入单次循环结束 -------------- 
